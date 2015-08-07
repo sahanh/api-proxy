@@ -1,0 +1,17 @@
+/bootstrap/compiled.php
+/vendor
+composer.phar
+.env.*.php
+!.env.sample.php
+.env.php
+.DS_Store
+Thumbs.db
+/public/packages/darsain/laravel-console
+tests/_output/*
+tests/tmp
+/node_modules
+/frontend
+/app/config/testing
+/app/storage/
+apiary.apib
+.env
